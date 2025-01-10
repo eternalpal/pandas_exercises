@@ -69,7 +69,7 @@ Suggestions and collaborations are more than welcome. Please open an issue or ma
 [Iris](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Iris)  
 [Wine](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Wine)  
 
-```
+```mermaid
 flowchart TD
     A[Christmas] -->|Get money| B(Go shopping)
     B --> C{Let me think}
